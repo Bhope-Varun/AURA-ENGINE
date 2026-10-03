@@ -1,0 +1,6 @@
+{
+  "name": "StockMaster Inventory Management System",
+  "description": "Enterprise-grade inventory management and analytics platform with real-time stock tracking, server-side pagination, and MongoDB aggregation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
